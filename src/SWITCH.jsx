@@ -6,7 +6,7 @@
 
 import React from 'react';
 
-import CASE from './CASE.jsx';
+import CASE from './CASE';
 import _isArray from 'lodash/isArray';
 import _forEach from 'lodash/forEach';
 

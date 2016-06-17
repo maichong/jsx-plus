@@ -6,7 +6,7 @@
 
 import React from 'react';
 
-import ELSE from './ELSE.jsx';
+import ELSE from './ELSE';
 import _isArray from 'lodash/isArray';
 import _forEach from 'lodash/forEach';
 

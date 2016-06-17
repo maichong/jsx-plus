@@ -7,7 +7,7 @@ if/else/switch/case for jsx
 
 import React from 'react';
 
-import { IF, ELSE, SWITCH, CASE } from 'react';
+import { IF, ELSE, SWITCH, CASE } from 'jsx-plus';
 
 class Component extends React.Component {
 
